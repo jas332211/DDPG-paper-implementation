@@ -26,7 +26,7 @@ Minimal Requirements.txt includes what I believe should be the minimum to run th
 
 
 
-
+# Results & Further improvements: 
 The results I was getting from using networks with layer and env normalizations were quite successful: 
  
 (As You can see SWA was getting already much better results , and that was only on 350 episodes and using Adam optimizer without batch normalization ) 
